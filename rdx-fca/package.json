@@ -1,5 +1,5 @@
 {
-  "name": "rdx-fca",
+  "name": "MR DEVIL-fca",
   "version": "1.0.0",
   "description": "Unofficial Facebook Chat API - Built & Owned by MR DEVIL",
   "main": "index.js",
@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mrdevil/rdx-fca"
+    "url": "https://github.com/mrdevil/MR DEVIL-fca"
   },
   "keywords": [
     "facebook",
@@ -39,16 +39,16 @@
     "bot",
     "unofficial",
     "fca",
-    "rdx-fca",
+    "MR DEVIL-fca",
     "mr-devil",
-    "rdx"
+    "MR DEVIL"
   ],
   "author": "MR DEVIL <https://github.com/mrdevil>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mrdevil/rdx-fca/issues"
+    "url": "https://github.com/mrdevil/MR DEVIL-fca/issues"
   },
-  "homepage": "https://github.com/mrdevil/rdx-fca#readme",
+  "homepage": "https://github.com/mrdevil/MR DEVIL-fca#readme",
   "engines": {
     "node": ">=16.0.0"
   },
