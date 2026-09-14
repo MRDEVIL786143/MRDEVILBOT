@@ -88,7 +88,7 @@ module.exports = {
         _0x23630e += "│  ❌ Image " + (_0x16d49e + 1) + ": Upload fail!\n│\n";
       }
     });
-    const _0xc8598d = "╭───「 🖼️ 𝗜𝗕𝗕 𝗨𝗣𝗟𝗢𝗔𝗗𝗘𝗥 」───⟡\n│\n│  ✅ Upload Complete!\n" + ("│  📦 Total : " + _0x46125f + " image" + (_0x46125f > 1 ? "s" : "") + "\n") + ("│  ✔️  Done  : " + _0x1639ec + "   ❌ Failed: " + _0x3b88e0 + "\n") + "│\n│  ─────────────────────\n│\n" + _0x23630e + "│  🌐 Powered by ImgBB\n│  ⚙️ ZAIN KHAN BOT\n╰───────────────────────⟡";
+    const _0xc8598d = "╭───「 🖼️ 𝗜𝗕𝗕 𝗨𝗣𝗟𝗢𝗔𝗗𝗘𝗥 」───⟡\n│\n│  ✅ Upload Complete!\n" + ("│  📦 Total : " + _0x46125f + " image" + (_0x46125f > 1 ? "s" : "") + "\n") + ("│  ✔️  Done  : " + _0x1639ec + "   ❌ Failed: " + _0x3b88e0 + "\n") + "│\n│  ─────────────────────\n│\n" + _0x23630e + "│  🌐 Powered by ImgBB\n│  ⚙️ MR DEVIL BOT\n╰───────────────────────⟡";
     if (_0x4732d0) {
       _0x5bd61d.editMessage(_0xc8598d, _0x4732d0, () => {});
     } else {
