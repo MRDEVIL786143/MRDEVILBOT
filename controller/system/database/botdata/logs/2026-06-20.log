@@ -1,0 +1,841 @@
+[05:28:04 PM || 20/06/2026] [INFO] [BOT] Login method: COOKIES (cookies.txt)
+[05:28:04 PM || 20/06/2026] [SUCCESS] [COOKIES] Loaded 12 cookies from cookies.txt
+[05:28:04 PM || 20/06/2026] [INFO] [BOT] Starting 🌟 MR DEVIL BOT 🌟...
+[05:28:04 PM || 20/06/2026] [INFO] [BOT] Timezone: Asia/Karachi
+[05:28:04 PM || 20/06/2026] [INFO] [BOT] Prefix: .
+[05:28:04 PM || 20/06/2026] [SUCCESS] [WEB_PANEL] Control Panel running on port 5000
+[05:28:04 PM || 20/06/2026] [SUCCESS] [WEB_PANEL] Local:   http://localhost:5000
+[05:28:37 PM || 20/06/2026] [ERROR] [UNHANDLED_REJECTION] Error: write ECONNRESET
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:19)
+    at handleWriteReq (node:internal/stream_base_commons:59:21)
+    at writeGeneric (node:internal/stream_base_commons:148:15)
+    at Socket._writeGeneric (node:net:1025:11)
+    at Socket._write (node:net:1037:8)
+    at doWrite (node:internal/streams/writable:596:12)
+    at clearBuffer (node:internal/streams/writable:781:7)
+    at Writable.uncork (node:internal/streams/writable:529:7)
+    at ClientRequest._flushOutput (node:_http_outgoing:1170:10)
+    at ClientRequest._flush (node:_http_outgoing:1142:22)
+[05:29:44 PM || 20/06/2026] [INFO] [BOT] Login method: COOKIES (cookies.txt)
+[05:29:44 PM || 20/06/2026] [SUCCESS] [COOKIES] Loaded 12 cookies from cookies.txt
+[05:29:44 PM || 20/06/2026] [INFO] [BOT] Starting 🌟 MR DEVIL BOT 🌟...
+[05:29:44 PM || 20/06/2026] [INFO] [BOT] Timezone: Asia/Karachi
+[05:29:44 PM || 20/06/2026] [INFO] [BOT] Prefix: .
+[05:29:44 PM || 20/06/2026] [SUCCESS] [WEB_PANEL] Control Panel running on port 5000
+[05:29:44 PM || 20/06/2026] [SUCCESS] [WEB_PANEL] Local:   http://localhost:5000
+[05:30:14 PM || 20/06/2026] [ERROR] [LOGIN] Failed: read ECONNRESET
+[05:32:24 PM || 20/06/2026] [INFO] [BOT] Login method: COOKIES (cookies.txt)
+[05:32:24 PM || 20/06/2026] [SUCCESS] [COOKIES] Loaded 13 cookies from cookies.txt
+[05:32:24 PM || 20/06/2026] [INFO] [BOT] Starting 🌟 MR DEVIL BOT 🌟...
+[05:32:24 PM || 20/06/2026] [INFO] [BOT] Timezone: Asia/Karachi
+[05:32:24 PM || 20/06/2026] [INFO] [BOT] Prefix: .
+[05:32:24 PM || 20/06/2026] [SUCCESS] [WEB_PANEL] Control Panel running on port 5000
+[05:32:24 PM || 20/06/2026] [SUCCESS] [WEB_PANEL] Local:   http://localhost:5000
+[05:32:30 PM || 20/06/2026] [SUCCESS] [LOGIN] Logged in successfully!
+[05:32:30 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: add
+[05:32:30 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: addfriend
+[05:32:30 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: aisetup
+[05:32:30 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: allbox
+[05:32:30 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: antiout
+[05:32:30 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: autoreact
+[05:32:30 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: autoseen
+[05:32:30 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: autosent
+[05:32:30 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: avatar
+[05:32:30 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: balance
+[05:32:30 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: ban
+[05:32:30 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: bank
+[05:32:30 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: barfi
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: bestie
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: bestie2
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: bestie3
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: bestie4
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: bestie5
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: biryani
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: botnoti
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: broadcast
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: brother
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: brother2
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: brother3
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: chatai
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: chicken
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: chocolate
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: clearinbox
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: clearnickall
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: cmd
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: coinflip
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: creategroup
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: dahibhaly
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: daily
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: edit
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: emojigif
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: enhance
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: filter
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: friends
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: gajar
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: getuid
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: golgapy
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: groupinfo
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: gulabjaman
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: hack
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: help
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: ibb
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: icecream
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: info
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: islamicscheduler
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: join
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: juice
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: kick
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: kiss
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: lassi
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: link
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: macaroni
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: milkshake
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: nicklock
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: nicklockall
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: nickname
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: nickunlock
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: nickunlockall
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: noodles
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: ofcmd
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: olcmd
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: onlyadmin
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: openaccount
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: out
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: outbox
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: owner
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair10
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair11
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair12
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair13
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair14
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair15
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair2
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair3
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair4
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair5
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair6
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair7
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair8
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair9
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pani
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pasta
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: ping
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pizza
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: play
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: playvideo
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: poll
+[05:32:36 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: prefix
+[05:32:38 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: rankup
+[05:32:38 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: rasgullah
+[05:32:38 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: redbull
+[05:32:38 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: refresh
+[05:32:38 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: reload
+[05:32:38 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: removebg
+[05:32:38 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: requests
+[05:32:38 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: resend
+[05:32:38 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: restart
+[05:32:38 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: roast
+[05:32:38 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: say
+[05:32:38 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: setemoji
+[05:32:38 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: setgroupimage
+[05:32:38 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: setname
+[05:32:38 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: setnick
+[05:32:38 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: setnickall
+[05:32:38 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: setprofile
+[05:32:38 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: settheme
+[05:32:38 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: shareid
+[05:32:38 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: sibling
+[05:32:38 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: sibling2
+[05:32:38 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: sibling3
+[05:32:38 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: sister
+[05:32:38 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: sister2
+[05:32:38 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: sister3
+[05:32:38 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: slap
+[05:32:38 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: slots
+[05:32:38 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: snb
+[05:32:38 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: spamgc
+[05:32:38 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: sting
+[05:32:38 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: story
+[05:32:38 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: text2video
+[05:32:38 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: threadban
+[05:32:38 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: tid
+[05:32:38 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: top
+[05:32:38 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: translate
+[05:32:38 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: trivia
+[05:32:38 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: uid
+[05:32:38 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: uidall
+[05:32:38 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: unban
+[05:32:38 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: unsend
+[05:32:38 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: upt2
+[05:32:38 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: uptime
+[05:32:38 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: work
+[05:32:38 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: wyr
+[05:32:38 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: ytmp3
+[05:32:38 PM || 20/06/2026] [INFO] [REFRESH] Loaded 140 commands
+[05:32:38 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: adminchange
+[05:32:38 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: aichat
+[05:32:38 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: antioutHandler
+[05:32:38 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: autoreact
+[05:32:38 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: autoseen
+[05:32:38 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: botnotiSpam
+[05:32:38 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: fbautodl
+[05:32:38 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: goibot
+[05:32:38 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: guard
+[05:32:38 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: igautodl
+[05:32:38 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: joinnoti
+[05:32:38 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: leave
+[05:32:38 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: pinterestautodl
+[05:32:38 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: resend
+[05:32:38 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: tiktokautodl
+[05:32:38 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: triviaListener
+[05:32:38 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: welcome
+[05:32:38 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: ytautodl
+[05:32:38 PM || 20/06/2026] [INFO] [REFRESH] Loaded 18 events
+[05:32:38 PM || 20/06/2026] [SUCCESS] [ISLAMIC_SCHEDULER] Islamic scheduler started ✅
+[05:32:38 PM || 20/06/2026] [SUCCESS] [SCHEDULER] All schedulers started
+[05:32:38 PM || 20/06/2026] [INFO] [BOT] Attaching MQTT listener...
+[05:32:38 PM || 20/06/2026] [SUCCESS] [BOT] 🌟 MR DEVIL BOT 🌟 is now ONLINE!
+[05:32:38 PM || 20/06/2026] [INFO] [BOT] Commands: 140 | Events: 18 | Prefix: .
+[05:33:14 PM || 20/06/2026] [INFO] [MSG_IN] [1311382593803786] 61590918472593: .spamgc
+[05:33:14 PM || 20/06/2026] [COMMAND] spamgc by - ⸙ ❰ 𝐙𝐀𝐈𝐍 ❱ ː » 𖤍 ️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ ️ in 1311382593803786
+[05:33:40 PM || 20/06/2026] [INFO] [MSG_IN] [1311382593803786] 61590918472593: hello
+[05:35:04 PM || 20/06/2026] [INFO] [HEARTBEAT] Connection active
+[05:35:58 PM || 20/06/2026] [INFO] [BOT] Login method: COOKIES (cookies.txt)
+[05:35:58 PM || 20/06/2026] [SUCCESS] [COOKIES] Loaded 13 cookies from cookies.txt
+[05:35:58 PM || 20/06/2026] [INFO] [BOT] Starting 🌟 MR DEVIL BOT 🌟...
+[05:35:58 PM || 20/06/2026] [INFO] [BOT] Timezone: Asia/Karachi
+[05:35:58 PM || 20/06/2026] [INFO] [BOT] Prefix: .
+[05:35:58 PM || 20/06/2026] [SUCCESS] [WEB_PANEL] Control Panel running on port 5000
+[05:35:58 PM || 20/06/2026] [SUCCESS] [WEB_PANEL] Local:   http://localhost:5000
+[05:36:56 PM || 20/06/2026] [ERROR] [UNHANDLED_REJECTION] Error: connect ETIMEDOUT 57.144.148.141:443
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1705:16)
+[05:37:46 PM || 20/06/2026] [INFO] [BOT] Login method: COOKIES (cookies.txt)
+[05:37:46 PM || 20/06/2026] [SUCCESS] [COOKIES] Loaded 13 cookies from cookies.txt
+[05:37:46 PM || 20/06/2026] [INFO] [BOT] Starting 🌟 MR DEVIL BOT 🌟...
+[05:37:46 PM || 20/06/2026] [INFO] [BOT] Timezone: Asia/Karachi
+[05:37:46 PM || 20/06/2026] [INFO] [BOT] Prefix: .
+[05:37:46 PM || 20/06/2026] [SUCCESS] [WEB_PANEL] Control Panel running on port 5000
+[05:37:46 PM || 20/06/2026] [SUCCESS] [WEB_PANEL] Local:   http://localhost:5000
+[05:38:31 PM || 20/06/2026] [INFO] [BOT] Login method: COOKIES (cookies.txt)
+[05:38:31 PM || 20/06/2026] [SUCCESS] [COOKIES] Loaded 13 cookies from cookies.txt
+[05:38:31 PM || 20/06/2026] [INFO] [BOT] Starting 🌟 MR DEVIL BOT 🌟...
+[05:38:31 PM || 20/06/2026] [INFO] [BOT] Timezone: Asia/Karachi
+[05:38:31 PM || 20/06/2026] [INFO] [BOT] Prefix: .
+[05:38:31 PM || 20/06/2026] [SUCCESS] [WEB_PANEL] Control Panel running on port 5000
+[05:38:31 PM || 20/06/2026] [SUCCESS] [WEB_PANEL] Local:   http://localhost:5000
+[05:39:13 PM || 20/06/2026] [SUCCESS] [LOGIN] Logged in successfully!
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: add
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: addfriend
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: aisetup
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: allbox
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: antiout
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: autoreact
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: autoseen
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: autosent
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: avatar
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: balance
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: ban
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: bank
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: barfi
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: bestie
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: bestie2
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: bestie3
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: bestie4
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: bestie5
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: biryani
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: botnoti
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: broadcast
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: brother
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: brother2
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: brother3
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: chatai
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: chicken
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: chocolate
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: clearinbox
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: clearnickall
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: cmd
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: coinflip
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: creategroup
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: dahibhaly
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: daily
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: edit
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: emojigif
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: enhance
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: filter
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: friends
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: gajar
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: getuid
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: golgapy
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: groupinfo
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: gulabjaman
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: hack
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: help
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: ibb
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: icecream
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: info
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: islamicscheduler
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: join
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: juice
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: kick
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: kiss
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: lassi
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: link
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: macaroni
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: milkshake
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: nicklock
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: nicklockall
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: nickname
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: nickunlock
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: nickunlockall
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: noodles
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: ofcmd
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: olcmd
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: onlyadmin
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: openaccount
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: out
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: outbox
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: owner
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair10
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair11
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair12
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair13
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair14
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair15
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair2
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair3
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair4
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair5
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair6
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair7
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair8
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair9
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pani
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pasta
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: ping
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pizza
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: play
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: playvideo
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: poll
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: prefix
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: rankup
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: rasgullah
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: redbull
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: refresh
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: reload
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: removebg
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: requests
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: resend
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: restart
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: roast
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: say
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: setemoji
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: setgroupimage
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: setname
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: setnick
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: setnickall
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: setprofile
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: settheme
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: shareid
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: sibling
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: sibling2
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: sibling3
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: sister
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: sister2
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: sister3
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: slap
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: slots
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: snb
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: spamgc
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: sting
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: story
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: text2video
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: threadban
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: tid
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: top
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: translate
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: trivia
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: uid
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: uidall
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: unban
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: unsend
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: upt2
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: uptime
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: work
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: wyr
+[05:39:13 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: ytmp3
+[05:39:13 PM || 20/06/2026] [INFO] [REFRESH] Loaded 140 commands
+[05:39:13 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: adminchange
+[05:39:13 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: aichat
+[05:39:13 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: antioutHandler
+[05:39:13 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: autoreact
+[05:39:13 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: autoseen
+[05:39:13 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: botnotiSpam
+[05:39:13 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: fbautodl
+[05:39:13 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: goibot
+[05:39:13 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: guard
+[05:39:13 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: igautodl
+[05:39:13 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: joinnoti
+[05:39:13 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: leave
+[05:39:13 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: pinterestautodl
+[05:39:13 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: resend
+[05:39:13 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: tiktokautodl
+[05:39:13 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: triviaListener
+[05:39:13 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: welcome
+[05:39:13 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: ytautodl
+[05:39:13 PM || 20/06/2026] [INFO] [REFRESH] Loaded 18 events
+[05:39:13 PM || 20/06/2026] [SUCCESS] [ISLAMIC_SCHEDULER] Islamic scheduler started ✅
+[05:39:13 PM || 20/06/2026] [SUCCESS] [SCHEDULER] All schedulers started
+[05:39:13 PM || 20/06/2026] [INFO] [BOT] Attaching MQTT listener...
+[05:39:13 PM || 20/06/2026] [SUCCESS] [BOT] 🌟 MR DEVIL BOT 🌟 is now ONLINE!
+[05:39:13 PM || 20/06/2026] [INFO] [BOT] Commands: 140 | Events: 18 | Prefix: .
+[05:39:31 PM || 20/06/2026] [INFO] [MSG_IN] [1311382593803786] 61590918472593: .spamgc
+[05:39:31 PM || 20/06/2026] [COMMAND] spamgc by - ⸙ ❰ 𝐙𝐀𝐈𝐍 ❱ ː » 𖤍 ️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ ️ in 1311382593803786
+[05:39:43 PM || 20/06/2026] [INFO] [MSG_IN] [1311382593803786] 61590918472593: 1
+[05:39:55 PM || 20/06/2026] [EVENT] log:user-nickname in 3866035933527361
+[05:40:00 PM || 20/06/2026] [INFO] [HEARTBEAT] Connection active
+[05:40:13 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61590918472593: .removebg
+[05:40:13 PM || 20/06/2026] [COMMAND] removebg by - ⸙ ❰ 𝐙𝐀𝐈𝐍 ❱ ː » 𖤍 ️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ ️ in 3866035933527361
+[05:40:45 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61590918472593: https://www.instagram.com/reel/DYNQw6Ki8oQ/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==
+[05:41:09 PM || 20/06/2026] [EVENT] log:thread-admins in 3866035933527361
+[05:41:22 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61590918472593: owner
+[05:41:22 PM || 20/06/2026] [COMMAND] owner by - ⸙ ❰ 𝐙𝐀𝐈𝐍 ❱ ː » 𖤍 ️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ ️ in 3866035933527361
+[05:41:54 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61590918472593: hello tumhain kisny bnaya hai
+[05:42:00 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61590918472593: .job
+[05:42:01 PM || 20/06/2026] [COMMAND] job by - ⸙ ❰ 𝐙𝐀𝐈𝐍 ❱ ː » 𖤍 ️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ ️ in 3866035933527361
+[05:42:07 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61590918472593: .pair
+[05:42:07 PM || 20/06/2026] [COMMAND] pair by - ⸙ ❰ 𝐙𝐀𝐈𝐍 ❱ ː » 𖤍 ️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ ️ in 3866035933527361
+[05:42:30 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61590918472593: 🤣🤣
+[05:42:49 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61590918472593: .unsend
+[05:42:49 PM || 20/06/2026] [COMMAND] unsend by - ⸙ ❰ 𝐙𝐀𝐈𝐍 ❱ ː » 𖤍 ️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ ️ in 3866035933527361
+[05:42:51 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61590358737246: .list
+[05:43:08 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61590918472593: .helpall
+[05:43:12 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61550600726389: Bot hain ya?
+[05:43:23 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61550600726389: 😳😳
+[05:43:30 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61590918472593: ya shine chohei hai yaad rkhna
+[05:43:42 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61590358737246: .bot dfa ho jao yahn se🤣
+[05:43:56 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61550600726389: Zaini ya u ny baniya bot..?
+[05:44:09 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61590918472593: mainy ee bnaya
+[05:44:27 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61550600726389: Or ya zaini spooni hain ya b yaad kar lo
+[05:44:32 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61590358737246: Is bot ki list kha he
+[05:44:37 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61550600726389: Nice
+[05:44:40 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61590918472593: zaini owner hai tumhara
+[05:44:56 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61590918472593: .help all
+[05:44:56 PM || 20/06/2026] [COMMAND] help by - ⸙ ❰ 𝐙𝐀𝐈𝐍 ❱ ː » 𖤍 ️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ ️ in 3866035933527361
+[05:45:00 PM || 20/06/2026] [INFO] [HEARTBEAT] Connection active
+[05:45:04 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61550600726389: Good bacha 👏🏻💐
+[05:45:20 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61590918472593: .uidall
+[05:45:20 PM || 20/06/2026] [COMMAND] uidall by - ⸙ ❰ 𝐙𝐀𝐈𝐍 ❱ ː » 𖤍 ️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ ️ in 3866035933527361
+[05:45:32 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61590358737246: .hack @Laraib Fatima
+[05:45:32 PM || 20/06/2026] [COMMAND] hack by JeNi RajPoot in 3866035933527361
+[05:45:34 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61550600726389: Nahi Mai Rani ho u ki is zaini ko choro
+[05:46:03 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61550600726389: 👊🏻aby wo dushman hain Mera
+[05:46:09 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61590918472593: Main kisi ka nhi
+[05:46:19 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61550600726389: 🙄
+[05:46:28 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61550600726389: Ya b meta ki tahra tarki nikla
+[05:46:47 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61590918472593: 😒ispy kam kr reya filhal 😒
+[05:47:01 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61550600726389: 😒
+[05:47:04 PM || 20/06/2026] [INFO] [MSG_IN] [1311382593803786] 61572073346195: (no body)
+[05:47:12 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61590918472593: .hack @一 ꜛ ː Sʜineː᭄ꜛ ཐི༏ཋྀ
+[05:47:12 PM || 20/06/2026] [COMMAND] hack by - ⸙ ❰ 𝐙𝐀𝐈𝐍 ❱ ː » 𖤍 ️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ ️ in 3866035933527361
+[05:47:33 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61590918472593: iska password ib krdo
+[05:47:33 PM || 20/06/2026] [INFO] [AUTO_RANKUP] 61590918472593 leveled up: 4 → 5
+[05:47:39 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 100050798204920: 🙄
+[05:47:42 PM || 20/06/2026] [INFO] [MSG_IN] [1311382593803786] 61590207878981: 🙂
+[05:47:57 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61550600726389: Zaini ny bot baniya
+[05:50:24 PM || 20/06/2026] [INFO] [BOT] Login method: COOKIES (cookies.txt)
+[05:50:24 PM || 20/06/2026] [SUCCESS] [COOKIES] Loaded 14 cookies from cookies.txt
+[05:50:24 PM || 20/06/2026] [INFO] [BOT] Starting 🌟 MR DEVIL BOT 🌟...
+[05:50:24 PM || 20/06/2026] [INFO] [BOT] Timezone: Asia/Karachi
+[05:50:24 PM || 20/06/2026] [INFO] [BOT] Prefix: .
+[05:50:24 PM || 20/06/2026] [SUCCESS] [WEB_PANEL] Control Panel running on port 5000
+[05:50:24 PM || 20/06/2026] [SUCCESS] [WEB_PANEL] Local:   http://localhost:5000
+[05:50:32 PM || 20/06/2026] [SUCCESS] [LOGIN] Logged in successfully!
+[05:50:32 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: add
+[05:50:32 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: addfriend
+[05:50:32 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: aisetup
+[05:50:32 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: allbox
+[05:50:32 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: antiout
+[05:50:32 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: autoreact
+[05:50:32 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: autoseen
+[05:50:32 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: autosent
+[05:50:32 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: avatar
+[05:50:32 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: balance
+[05:50:32 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: ban
+[05:50:32 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: bank
+[05:50:32 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: barfi
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: bestie
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: bestie2
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: bestie3
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: bestie4
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: bestie5
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: biryani
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: botnoti
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: broadcast
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: brother
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: brother2
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: brother3
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: chatai
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: chicken
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: chocolate
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: clearinbox
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: clearnickall
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: cmd
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: coinflip
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: creategroup
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: dahibhaly
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: daily
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: edit
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: emojigif
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: enhance
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: filter
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: friends
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: gajar
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: getuid
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: golgapy
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: groupinfo
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: gulabjaman
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: hack
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: help
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: ibb
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: icecream
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: info
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: islamicscheduler
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: join
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: juice
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: kick
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: kiss
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: lassi
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: link
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: macaroni
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: milkshake
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: nicklock
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: nicklockall
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: nickname
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: nickunlock
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: nickunlockall
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: noodles
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: ofcmd
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: olcmd
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: onlyadmin
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: openaccount
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: out
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: outbox
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: owner
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair10
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair11
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair12
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair13
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair14
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair15
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair2
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair3
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair4
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair5
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair6
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair7
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair8
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair9
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pani
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pasta
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: ping
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pizza
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: play
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: playvideo
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: poll
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: prefix
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: rankup
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: rasgullah
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: redbull
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: refresh
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: reload
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: removebg
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: requests
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: resend
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: restart
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: roast
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: say
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: setemoji
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: setgroupimage
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: setname
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: setnick
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: setnickall
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: setprofile
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: settheme
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: shareid
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: sibling
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: sibling2
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: sibling3
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: sister
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: sister2
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: sister3
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: slap
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: slots
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: snb
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: spamgc
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: sting
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: story
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: text2video
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: threadban
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: tid
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: top
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: translate
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: trivia
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: uid
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: uidall
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: unban
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: unsend
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: upt2
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: uptime
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: work
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: wyr
+[05:50:33 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: ytmp3
+[05:50:33 PM || 20/06/2026] [INFO] [REFRESH] Loaded 140 commands
+[05:50:33 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: adminchange
+[05:50:33 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: aichat
+[05:50:33 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: antioutHandler
+[05:50:33 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: autoreact
+[05:50:33 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: autoseen
+[05:50:33 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: botnotiSpam
+[05:50:33 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: fbautodl
+[05:50:33 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: goibot
+[05:50:33 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: guard
+[05:50:33 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: igautodl
+[05:50:33 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: joinnoti
+[05:50:33 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: leave
+[05:50:33 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: pinterestautodl
+[05:50:33 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: resend
+[05:50:33 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: tiktokautodl
+[05:50:33 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: triviaListener
+[05:50:33 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: welcome
+[05:50:33 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: ytautodl
+[05:50:33 PM || 20/06/2026] [INFO] [REFRESH] Loaded 18 events
+[05:50:33 PM || 20/06/2026] [SUCCESS] [ISLAMIC_SCHEDULER] Islamic scheduler started ✅
+[05:50:33 PM || 20/06/2026] [SUCCESS] [SCHEDULER] All schedulers started
+[05:50:33 PM || 20/06/2026] [INFO] [BOT] Attaching MQTT listener...
+[05:50:33 PM || 20/06/2026] [SUCCESS] [BOT] 🌟 MR DEVIL BOT 🌟 is now ONLINE!
+[05:50:33 PM || 20/06/2026] [INFO] [BOT] Commands: 140 | Events: 18 | Prefix: .
+[05:50:36 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61569946116244: Not darta ha
+[05:50:41 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61590918472593: 🤣🥹kuxh na howa
+[05:50:46 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61550600726389: Is ny Bot baniya hain
+[05:50:51 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61590918472593: .say shine chohei hai
+[05:50:51 PM || 20/06/2026] [COMMAND] say by - ⸙ ❰ 𝐙𝐀𝐈𝐍 ❱ ː » 𖤍 ️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ ️ in 3866035933527361
+[05:51:02 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61590918472593: .play saiyara
+[05:51:02 PM || 20/06/2026] [COMMAND] play by - ⸙ ❰ 𝐙𝐀𝐈𝐍 ❱ ː » 𖤍 ️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ ️ in 3866035933527361
+[05:51:24 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61569946116244: Fazool
+[05:51:28 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61590918472593: .say shine namoni hai
+[05:51:28 PM || 20/06/2026] [COMMAND] say by - ⸙ ❰ 𝐙𝐀𝐈𝐍 ❱ ː » 𖤍 ️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ ️ in 3866035933527361
+[05:51:38 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61569946116244: Ya bs Kuch hi instructions follow kr sakta ha
+[05:51:47 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61590358737246: .say kaka BDmaxh
+[05:51:47 PM || 20/06/2026] [COMMAND] say by JeNi RajPoot in 3866035933527361
+[05:51:55 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61590918472593: han 147 instructions
+[05:52:07 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61569946116244: Wady kaky nal panga hoya ay 🙂
+[05:52:09 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61590358737246: @Laraib Fatima 😅😅
+[05:52:28 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61569946116244: Lanat hoy tery ty kaka badmash kah
+[05:52:29 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61550600726389: 🙄🙄👊🏻
+[05:52:31 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61590358737246: Get lost 😤
+[05:52:35 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61569946116244: Hmmmm
+[05:52:49 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61550600726389: .say Zaini spooni
+[05:52:49 PM || 20/06/2026] [COMMAND] say by 一 ꜛ ː Sʜineː᭄ꜛ ཐི༏ཋྀ in 3866035933527361
+[05:53:08 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61590918472593: 5219 files +1 milion lines of code is not fazool
+[05:53:21 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61550600726389: Kick karo gi is ko Mai 🙄👊🏻
+[05:53:28 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61569946116244: Achaaaa achaaaa
+[05:53:35 PM || 20/06/2026] [INFO] [MSG_IN] [1311382593803786] 61590918472593: .say trust me baby i will break your heart
+[05:53:35 PM || 20/06/2026] [COMMAND] say by - ⸙ ❰ 𝐙𝐀𝐈𝐍 ❱ ː » 𖤍 ️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ ️ in 1311382593803786
+[05:54:08 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61550600726389: 👀
+[05:54:58 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61590918472593: time to sleep lets work on you tomorrow
+[05:54:59 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61550600726389: Arman Malik k song send karo
+[05:55:03 PM || 20/06/2026] [INFO] [HEARTBEAT] Connection active
+[05:55:06 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61590918472593: konsa
+[05:55:15 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61550600726389: Koi b
+[05:55:20 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61550600726389: But ho arman Malik ka
+[05:55:21 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61590918472593: .sing bol do na zara
+[05:55:42 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61590918472593: .play bol do na zara
+[05:55:42 PM || 20/06/2026] [COMMAND] play by - ⸙ ❰ 𝐙𝐀𝐈𝐍 ❱ ː » 𖤍 ️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ ️ in 3866035933527361
+[05:56:19 PM || 20/06/2026] [INFO] [MSG_IN] [1311382593803786] 61590918472593: hehee
+[05:57:00 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61590918472593: abhi bye kro sbhko
+[05:57:05 PM || 20/06/2026] [INFO] [MSG_IN] [3866035933527361] 61590918472593: .out
+[05:57:05 PM || 20/06/2026] [COMMAND] out by - ⸙ ❰ 𝐙𝐀𝐈𝐍 ❱ ː » 𖤍 ️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ ️ in 3866035933527361
+[06:04:24 PM || 20/06/2026] [INFO] [BOT] Login method: COOKIES (cookies.txt)
+[06:04:24 PM || 20/06/2026] [SUCCESS] [COOKIES] Loaded 14 cookies from cookies.txt
+[06:04:24 PM || 20/06/2026] [INFO] [BOT] Starting 🌟 MR DEVIL BOT 🌟...
+[06:04:24 PM || 20/06/2026] [INFO] [BOT] Timezone: Asia/Karachi
+[06:04:24 PM || 20/06/2026] [INFO] [BOT] Prefix: .
+[06:04:24 PM || 20/06/2026] [SUCCESS] [WEB_PANEL] Control Panel running on port 5000
+[06:04:24 PM || 20/06/2026] [SUCCESS] [WEB_PANEL] Local:   http://localhost:5000
+[06:04:28 PM || 20/06/2026] [SUCCESS] [LOGIN] Logged in successfully!
+[06:04:28 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: add
+[06:04:28 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: addfriend
+[06:04:28 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: aisetup
+[06:04:28 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: allbox
+[06:04:28 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: antiout
+[06:04:28 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: autoreact
+[06:04:28 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: autoseen
+[06:04:28 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: autosent
+[06:04:28 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: avatar
+[06:04:28 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: balance
+[06:04:28 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: ban
+[06:04:28 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: bank
+[06:04:28 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: barfi
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: bestie
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: bestie2
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: bestie3
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: bestie4
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: bestie5
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: biryani
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: botnoti
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: broadcast
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: brother
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: brother2
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: brother3
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: chatai
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: chicken
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: chocolate
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: clearinbox
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: clearnickall
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: cmd
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: coinflip
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: creategroup
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: dahibhaly
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: daily
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: edit
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: emojigif
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: enhance
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: filter
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: friends
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: gajar
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: getuid
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: golgapy
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: groupinfo
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: gulabjaman
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: hack
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: help
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: ibb
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: icecream
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: info
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: islamicscheduler
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: join
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: juice
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: kick
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: kiss
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: lassi
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: link
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: macaroni
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: milkshake
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: nicklock
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: nicklockall
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: nickname
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: nickunlock
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: nickunlockall
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: noodles
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: ofcmd
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: olcmd
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: onlyadmin
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: openaccount
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: out
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: outbox
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: owner
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair10
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair11
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair12
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair13
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair14
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair15
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair2
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair3
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair4
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair5
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair6
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair7
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair8
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pair9
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pani
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pasta
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: ping
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: pizza
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: play
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: playvideo
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: poll
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: prefix
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: rankup
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: rasgullah
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: redbull
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: refresh
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: reload
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: removebg
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: requests
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: resend
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: restart
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: roast
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: say
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: setemoji
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: setgroupimage
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: setname
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: setnick
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: setnickall
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: setprofile
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: settheme
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: shareid
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: sibling
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: sibling2
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: sibling3
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: sister
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: sister2
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: sister3
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: slap
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: slots
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: snb
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: spamgc
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: sting
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: story
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: text2video
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: threadban
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: tid
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: top
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: translate
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: trivia
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: uid
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: uidall
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: unban
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: unsend
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: upt2
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: uptime
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: work
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: wyr
+[06:04:29 PM || 20/06/2026] [SUCCESS] [COMMAND] Loaded: ytmp3
+[06:04:29 PM || 20/06/2026] [INFO] [REFRESH] Loaded 140 commands
+[06:04:29 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: adminchange
+[06:04:29 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: aichat
+[06:04:29 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: antioutHandler
+[06:04:29 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: autoreact
+[06:04:29 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: autoseen
+[06:04:29 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: botnotiSpam
+[06:04:29 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: fbautodl
+[06:04:29 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: goibot
+[06:04:29 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: guard
+[06:04:29 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: igautodl
+[06:04:29 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: joinnoti
+[06:04:29 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: leave
+[06:04:29 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: pinterestautodl
+[06:04:29 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: resend
+[06:04:29 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: tiktokautodl
+[06:04:29 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: triviaListener
+[06:04:29 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: welcome
+[06:04:29 PM || 20/06/2026] [SUCCESS] [EVENT] Loaded: ytautodl
+[06:04:29 PM || 20/06/2026] [INFO] [REFRESH] Loaded 18 events
+[06:04:29 PM || 20/06/2026] [SUCCESS] [ISLAMIC_SCHEDULER] Islamic scheduler started ✅
+[06:04:29 PM || 20/06/2026] [SUCCESS] [SCHEDULER] All schedulers started
+[06:04:29 PM || 20/06/2026] [INFO] [BOT] Attaching MQTT listener...
+[06:04:29 PM || 20/06/2026] [SUCCESS] [BOT] 🌟 MR DEVIL BOT 🌟 is now ONLINE!
+[06:04:29 PM || 20/06/2026] [INFO] [BOT] Commands: 140 | Events: 18 | Prefix: .
+[06:04:36 PM || 20/06/2026] [INFO] [MSG_IN] [1311382593803786] 61590918472593: hello
+[06:05:00 PM || 20/06/2026] [INFO] [HEARTBEAT] Connection active
+[06:05:10 PM || 20/06/2026] [INFO] [MSG_IN] [1311382593803786] 61590918472593: koi hukoom nhi
+[06:05:22 PM || 20/06/2026] [INFO] [MSG_IN] [1311382593803786] 61590918472593: maain owner hoo awpka
+[06:05:55 PM || 20/06/2026] [INFO] [MSG_IN] [1311382593803786] 61590918472593: maain tou zain nhi hoo
+[06:06:18 PM || 20/06/2026] [INFO] [MSG_IN] [1311382593803786] 61590918472593: soo ja j ak
+[06:06:38 PM || 20/06/2026] [INFO] [MSG_IN] [1311382593803786] 61590918472593: .say trust me baby i will break your heart id bna do jldi sy
+[06:06:38 PM || 20/06/2026] [COMMAND] say by - ⸙ ❰ 𝐙𝐀𝐈𝐍 ❱ ː » 𖤍 ️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ ️ in 1311382593803786
