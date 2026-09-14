@@ -52,7 +52,7 @@ module.exports = {
   async run({ api, event, send, Users, Currencies }) {
     const { threadID, messageID, senderID, mentions, messageReply } = event;
 
-    // ── 10 coin cost ──────────────────────────────────────────
+    // ── 0 coin cost ──────────────────────────────────────────
     const COST = 10;
     const userBal = await Currencies.getBalance(senderID);
     if (userBal < COST) {
