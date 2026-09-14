@@ -24,7 +24,7 @@
   "AI_OWNER": "MR DEVIL",
   "AI_OWNER_UID": "61591055084616",
   "AI_ENABLED": true,
-  "AI_API_KEY": "",
+  "AI_API_KEY": "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",
     "GROQ_API_URL": "https://api.groq.com/openai/v1/chat/completions",
   "GROQ_MODEL": "llama-3.3-70b-versatile"
 }
