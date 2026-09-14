@@ -22,7 +22,7 @@ module.exports = {
     const adminID = config.ADMINBOT?.[0] || null;
 
     const ownerPics = [
-      'https://i.ibb.co/yBM5qrBj/image.png'
+      'https://i.ibb.co/QSwGL9C/80d35a430daf.jpg'
     ];
 
     const randomPic = ownerPics[Math.floor(Math.random() * ownerPics.length)];
@@ -44,7 +44,7 @@ module.exports = {
   📛 ɴᴀᴍᴇ: ${botName}
   ⌨️ ᴘʀᴇꜰɪx: ${prefix}
   📦 ᴠᴇʀꜱɪᴏɴ: 2.0.0
-  🛠️ ꜰʀᴀᴍᴇᴡᴏʀᴋ: Azk-FCA v2
+  🛠️ ꜰʀᴀᴍᴇᴡᴏʀᴋ: Devil-FCA v2
 
 ✨ ━━━━━━━━━━━━━━━━━━━ ✨
    💝 𝐓𝐡𝐚𝐧𝐤𝐬 𝐟𝐨𝐫 𝐔𝐬𝐢𝐧𝐠 💝
