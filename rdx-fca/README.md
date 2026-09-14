@@ -1,4 +1,4 @@
-# RDX-FCA
+# MR DEVIL-FCA
 
 **Facebook Chat API for Node.js - Enhanced by MR DEVIL**
 
@@ -17,21 +17,21 @@ A powerful unofficial Facebook Chat API built and maintained by MR DEVIL.
 ## Installation
 
 ```bash
-npm install rdx-fca
+npm install MR DEVIL-fca
 ```
 
 ## Quick Start
 
 ```javascript
-const rdxFca = require("rdx-fca");
+const mrDevilFca = require("MR DEVIL-fca");
 const fs = require("fs");
 
 const loginData = JSON.parse(fs.readFileSync("appState.json"));
 
-rdxFca(loginData, (err, api) => {
+mrDevilFca(loginData, (err, api) => {
   if (err) return console.error(err);
   
-  console.log("RDX-FCA logged in!");
+  console.log("MR DEVIL-FCA logged in!");
   
   api.listenMqtt((err, message) => {
     if (message.body) {
@@ -97,7 +97,7 @@ Create `appState.json` with your Facebook cookies:
 ## Options
 
 ```javascript
-rdxFca(loginData, {
+mrDevilFca(loginData, {
   selfListen: false,
   listenEvents: false,
   listenTyping: false,
@@ -117,4 +117,4 @@ MIT License
 
 ---
 
-**RDX-FCA v1.0.0** | Owner: MR DEVIL | Combined Best Features
+**MR DEVIL-FCA v1.0.0** | Owner: MR DEVIL | Combined Best Features
