@@ -90,7 +90,7 @@ module.exports = {
 ` +
         `│
 ` +
-        `│ ❌ Ye command 10 coins leta hai!
+        `│ ❌ Ye command 0 coins leta hai!
 ` +
         `│ 💰 Tumhare paas: ${userBal} coins
 ` +
